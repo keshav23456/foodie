@@ -7,8 +7,8 @@ A full-stack MERN application built on top of a simple pizza ordering app, trans
 ## Quick Start (One Command)
 
 ```bash
-git clone <your-repo-url>
-cd mern-pizza
+git clone https://github.com/keshav23456/foodie.git
+cd foodie
 npm run setup
 ```
 
